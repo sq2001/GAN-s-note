@@ -1,2 +1,3 @@
 # GAN's note
-gan
+
+### How GAN and Variants Work : An Overviee 1711.05914
