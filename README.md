@@ -1,2 +1,2 @@
-# GAN-s-note
+# GAN's note
 gan
